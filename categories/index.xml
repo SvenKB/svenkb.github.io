@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sven Kleine Bardenhorst</title>
+    <link>https://svenkb.github.io/categories/</link>
+    <description>Recent content in Categories on Sven Kleine Bardenhorst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.kleinebardenhorst@me.com (Sven Kleine Bardenhorst)</managingEditor>
+    <webMaster>s.kleinebardenhorst@me.com (Sven Kleine Bardenhorst)</webMaster>
+    
+	<atom:link href="https://svenkb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
